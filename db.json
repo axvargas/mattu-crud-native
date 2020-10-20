@@ -1,0 +1,46 @@
+{
+  "clients": [
+    {
+      "name": "Andrew",
+      "telephone": "0987496678",
+      "email": "andrew@hotmail.com",
+      "company": "Hala",
+      "id": 1
+    },
+    {
+      "name": "Ale",
+      "telephone": "0987485523",
+      "email": "ale@hotmail.com",
+      "company": "AleYeah",
+      "id": 2
+    },
+    {
+      "name": "Jack",
+      "telephone": "0987485521",
+      "email": "jack@hotmail.com",
+      "company": "JackCrack",
+      "id": 3
+    },
+    {
+      "name": "Cecilia",
+      "telephone": "098748513",
+      "email": "ceci@hotmail.com",
+      "company": "Rocnarf",
+      "id": 4
+    },
+    {
+      "name": "Ernesto",
+      "telephone": "0987485563",
+      "email": "ernesto@hotmail.com",
+      "company": "Dagnarof",
+      "id": 5
+    },
+    {
+      "name": "Joshua",
+      "telephone": "0985699852",
+      "email": "joshua@hotmail.com",
+      "company": "A ver",
+      "id": 6
+    }
+  ]
+}
